@@ -1,0 +1,24 @@
+{
+  "name": "lambda_s3_bucket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulricharmin/lambda_s3_bucket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulricharmin/lambda_s3_bucket/issues"
+  },
+  "homepage": "https://github.com/ulricharmin/lambda_s3_bucket#readme",
+  "dependencies": {
+    "aws-sdk": "^2.652.0",
+    "busboy": "^0.3.1"
+  }
+}
