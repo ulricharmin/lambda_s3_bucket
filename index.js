@@ -2,8 +2,8 @@ const fs = require('fs');
 const AWS = require('aws-sdk');
 
 // Enter copied or downloaded access ID and secret key here
-const ID = 'AKIAZ3SASOM5PGK3L36N';
-const SECRET = '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';
+const ID = 'id';
+const SECRET = 'secret-access-key';
 
 // The name of the bucket that you have created
 const BUCKET_NAME = 'rollingluck-emails';
